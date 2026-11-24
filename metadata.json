@@ -1,0 +1,6 @@
+{
+  "name": "KARA Barbershop",
+  "description": "Luxury dark-themed barbershop in Bishkek with online booking, Google Maps directions, multilingual support (Kyrgyz, Russian, English), and an AI grooming concierge.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
